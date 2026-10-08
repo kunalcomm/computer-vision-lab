@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editor / temp
+.vscode/
+tempCodeRunnerFile.py
+*.log
+
+# Generated outputs and model weights
+*.pt
+*.pth
+single_image_3d_output.png
+face_output.jpg
+surveillance_output.jpg
+retrieval_output.jpg
+
+# OS / Office temp files
+.DS_Store
+Thumbs.db
+~$*

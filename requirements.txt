@@ -1,0 +1,9 @@
+opencv-contrib-python>=4.8,<5
+numpy
+matplotlib
+scikit-image
+scipy
+torch
+torchvision
+timm
+ultralytics
