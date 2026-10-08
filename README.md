@@ -1,6 +1,6 @@
 # Computer Vision Lab Experiments
 
-A collection of 15 computer vision experiments implemented in Python with OpenCV, NumPy, Matplotlib and PyTorch.
+A collection of 14 computer vision experiments implemented in Python with OpenCV, NumPy, Matplotlib and PyTorch.
 Each experiment has its own script, and the full lab record (aim, theory, algorithm, code, output, observation and result) is in `LAB_RECORD_CV.docx`.
 
 **Author:** Kunal  |  **Institution:** VIT Bhopal University
