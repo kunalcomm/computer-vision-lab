@@ -25,9 +25,6 @@ Each experiment has its own script, and the full lab record (aim, theory, algori
 | 12 | Object detection from dynamic background (surveillance) | MOG2 background subtraction, morphology, contours |
 | 13 | Content-based video retrieval | Shot detection, key frames, HSV histogram matching |
 | 14 | Construct 3D model from a single image | MiDaS monocular depth + back-projection to point cloud |
-| 15 | _TODO: add title_ | _TODO_ |
-
-> Experiment 15 title is still to be added. Edit the technique column of any row to match your code exactly.
 
 ---
 
